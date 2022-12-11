@@ -15,8 +15,8 @@
 - ## **English**
 A1 (My English isn't so good now, but I'm fixing this problem:)
 ## Courses:
-![Course of HTML](D:\rsschool\rschool-cv\1.jpg)
-![Course of CSS](D:\rsschool\rsschool-cv\2.jpg)
+1. Course of HTML in the SoloLearn app
+2. Course of CSS in the SoloLearn app
 
 
 
